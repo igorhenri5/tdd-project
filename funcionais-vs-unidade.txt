@@ -1,0 +1,7 @@
+1:
+-Testes unitários são testes de escopo pequeno, individual.
+-Testes funcionais testam fatias maiores do sistema, possivelmente interdependentes.
+
+2:
+-Testes unitários são implementados sob uma visão interna do sistema, testando um pequeno bloco de código implementado.
+-Testes funcionais são implementados sob uma visão externa do sistema, testando uma funcionalidade percebida pelo usuário.
