@@ -105,3 +105,5 @@ class NewVisitorTest(LiveServerTestCase):
         self.assertIn('Comprar leite', page_text)
 
         # Satisfeitos, ambos vão dormir
+
+
